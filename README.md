@@ -1,7 +1,7 @@
 # `Lab Project 1`
 
 <div align="center">
-<img src="./images/robot-imges.gif" alt="ROBOT" width="400" height="400">
+<img src="/images/robot-imges.gif" alt="ROBOT" width="400" height="400">
 </div>
 
 [![Slide](https://img.shields.io/badge/Slide-000?style=for-the-badge&logo=livejournal&logoColor=white&color=FF0000)](./images/Slayt.pdf)
