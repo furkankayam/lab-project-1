@@ -27,7 +27,7 @@
 #### Embedded
 
 [![Arduino](https://img.shields.io/badge/Ardunio%20Mega-C70D2C?style=for-the-badge&logo=arduino&color=00878F)](https://www.arduino.cc/)
-[![ESP8266](https://img.shields.io/badge/ESP8266-C70D2C?style=for-the-badge&logo=esphome&color=0F0F11)](https://www.espressif.com/en/products/socs/esp8266)
+[![ESP8266](https://img.shields.io/badge/ESP32-C70D2C?style=for-the-badge&logo=esphome&color=0F0F11)](https://www.espressif.com/en/products/socs/esp32)
 [![LoRaWAN](https://img.shields.io/badge/LoRaWan-C70D2C?style=for-the-badge&logo=wikiquote&color=380953)](https://lora-alliance.org/about-lorawan/)
 
 #### CI/CD
